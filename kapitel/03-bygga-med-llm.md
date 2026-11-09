@@ -197,15 +197,6 @@ Eftersom modellen kan föreslå vad som helst bör du aldrig låta den köra far
 - **Verktygsanrop:** modellen ber ditt program köra en funktion
 - **MCP:** standard för att koppla verktyg till AI-program
 
-## Testa dig själv
-
-1. Varför måste programmet skicka med hela samtalet i varje anrop?
-2. Vad är skillnaden mellan zero-shot och few-shot?
-3. Varför ska en API-nyckel inte skrivas direkt i koden?
-4. Varför bör programmet kontrollera JSON-svaret från modellen?
-5. Vilket problem löser RAG? Vilket löser den inte?
-6. Vem är det som faktiskt kör en funktion vid verktygsanrop?
-
 ## Koppling till projektet
 
 Det här kapitlet är ditt verktygskapitel för [AI LLMer](../projekt/ai-llmer/README.md). Du använder det från den första AI-appen till ditt egna program.

@@ -159,15 +159,6 @@ Tre tekniker återkommer ofta, och du kommer att prova alla:
 - **Generativ AI:** AI som skapar nytt innehåll som text, bilder eller kod
 - **NLP:** datorers tolkning och bearbetning av mänskligt språk
 
-## Testa dig själv
-
-1. Förklara skillnaden mellan smal och generell AI med ett exempel på vardera.
-2. Vad betyder det att ett AI-system *härleder* sitt svar?
-3. Varför klassades "vinn lunch nu" som skräp i exemplet?
-4. Vad är skillnaden mellan träningsdata och ny indata?
-5. Nämn tre drivkrafter bakom AI-utvecklingen. Vilken tror du är viktigast? Motivera.
-6. Är en miniräknare AI? Är en app som föreslår nästa ord? Motivera.
-
 ## Koppling till projektet
 
 Kapitlet ger grunden till [AI LLMer](../projekt/ai-llmer/README.md), där du börjar med att ta reda på vad generativ AI är. Begreppen om modell, träning och data används igen i [AI - Projekt](../projekt/ai-projekt/README.md).

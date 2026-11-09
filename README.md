@@ -12,7 +12,6 @@ En översikt över kursen, dess delar och projekt: [Artificiell intelligens 1 - 
 
 - Läs kapitlen i ordning. De följer kursens projekt.
 - Provkör koden. Python-exemplen fungerar i [Google Colab](https://colab.research.google.com/), så du behöver inte installera något.
-- Svara på frågorna i "Testa dig själv".
 - Läs projektmappen innan projektet börjar, så att du vet vad som ska lämnas in.
 - Lagar och produkter ändras snabbt. Kontrollera alltid uppgifter mot källorna som länkas.
 

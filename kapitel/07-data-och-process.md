@@ -129,16 +129,6 @@ Innan du börjar: kolla att datamängden är öppen, inte innehåller personuppg
 - **Överanpassning:** modellen minns träningsdata men klarar inte nya fall
 - **Dataläckage:** information om svaret finns med i indata av misstag
 
-## Testa dig själv
-
-1. Vilka är stegen i processen för AI-projekt?
-2. Varför utvärderar man inte på träningsdata?
-3. Vad är skillnaden mellan NumPy och Pandas?
-4. Vilka tre problem fanns i låttabellen?
-5. Varför kan det vara problematiskt att bara radera rader med fel?
-6. Ge ett exempel på en datamängd som inte är representativ.
-7. Vad är dataläckage?
-
 ## Koppling till projektet
 
 Det här kapitlet används i första delen av bootcampen i [AI - Projekt](../projekt/ai-projekt/README.md), och i början av ditt eget projekt när du ska välja och förbereda data.

@@ -115,15 +115,6 @@ Du kan använda de här frågorna för att göra en bra jämförelse:
 - **Automationsbias:** att överdrivet lita på förslag från datorer
 - **Generalisering:** att klara nya fall som liknar eller skiljer sig från träningsfallen
 
-## Testa dig själv
-
-1. Nämn två likheter och tre skillnader mellan människa och AI.
-2. Varför föll modellens resultat med omvända färger?
-3. Ge ett exempel på en uppgift där AI är bättre än människan, och förklara varför.
-4. Ge ett exempel på en uppgift där människan är bättre än AI, och förklara varför.
-5. Vad försöker Searles kinesiska rum visa?
-6. Vad är automationsbias, och hur kan det minskas?
-
 ## Koppling till projektet
 
 Reflektionen i [AI LLMer](../projekt/ai-llmer/README.md) ska jämföra hur en LLM och en människa lär sig, förstår och gör fel. Den här frågelistan är ett bra sätt att strukturera den.

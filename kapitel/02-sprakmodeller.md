@@ -166,16 +166,6 @@ Modellen är tränad att ge en sannolik fortsättning, inte att kontrollera om n
 - **Förträning och finjustering:** allmän träning, och anpassning till en uppgift
 - **Hallucination:** ett påhittat men övertygande svar
 
-## Testa dig själv
-
-1. Varför delas text i tokens i stället för att läsas bokstav för bokstav?
-2. Vad kan bigrammodellen inte hantera som en LLM kan?
-3. Vad händer med sannolikheterna vid väldigt låg temperature?
-4. Vad betyder det att två ord ligger nära varandra som embeddings?
-5. Vad är skillnaden mellan förträning och finjustering?
-6. Varför lär sig en modell normalt inte av att du rättar den i en chatt?
-7. Förklara varför en språkmodell kan hallucinera.
-
 ## Koppling till projektet
 
 Det här kapitlet förbereder de två första lektionerna i [AI LLMer](../projekt/ai-llmer/README.md). Du behöver begreppen när du jämför modellens "förståelse" med en människas och när du förklarar hur din app fungerar. I [AI - Projekt](../projekt/ai-projekt/README.md) återkommer BERT.

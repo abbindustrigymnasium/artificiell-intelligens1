@@ -124,16 +124,6 @@ flowchart TD
 - **Rättslig grund:** det stöd i lag som krävs för att få behandla personuppgifter
 - **Uppgiftsminimering:** att inte använda fler uppgifter än nödvändigt
 
-## Testa dig själv
-
-1. Vad är skillnaden mellan en norm och en lag?
-2. Beskriv de fyra risknivåerna med egna exempel.
-3. Vad betyder det för dig som läser en text om AI-förordningen att reglerna införs stegvis?
-4. Vad är skillnaden mellan leverantör och tillhandahållare?
-5. Nämn tre principer i GDPR och förklara dem kopplat till en chattbott.
-6. Varför är rätten till rättelse svår att tillämpa på språkmodeller?
-7. Vilka är de mest aktuella frågorna kring upphovsrätt och AI?
-
 ## Koppling till projektet
 
 I [AI LLMer](../projekt/ai-llmer/README.md) ska du sätta dig in i AI-förordningen och GDPR och bedöma vad de betyder för din app. Använd bedömningsschemat i din reflektion.

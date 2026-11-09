@@ -181,16 +181,6 @@ Numret på ett kluster betyder inget i sig. Alla 50 blommor av art 0 hamnar i sa
 - **Korsvalidering:** testa på flera olika delningar av data
 - **Klustring:** dela in data i grupper utan facit
 
-## Testa dig själv
-
-1. Vad händer om k är väldigt litet i KNN? Väldigt stort?
-2. Varför behöver egenskaper ofta ha samma skala i KNN?
-3. Vad mäter Gini?
-4. Varför presterar ett obegränsat träd ofta sämre på testdata?
-5. Varför kan en skog vara bättre än ett träd?
-6. Varför ska man inte lita på en enda delning av testdata?
-7. När är noggrannhet ett dåligt mått?
-
 ## Koppling till projektet
 
 Under bootcampen i [AI - Projekt](../projekt/ai-projekt/README.md) tränar du KNN, beslutsträd och slumpmässiga skogar i Google Colab. Metoderna passar bra i ett eget projekt om du vill klassificera något.

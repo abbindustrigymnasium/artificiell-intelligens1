@@ -189,16 +189,6 @@ Robotik är svårare än det låter. Sensorer ger felaktiga mätningar, världen
 - **Genetisk algoritm:** söker lösningar med urval, korsning och mutation
 - **Robot:** maskin som känner av omgivningen och agerar i den
 
-## Testa dig själv
-
-1. Varför hittar bredden-först-sökning en kortaste väg?
-2. Vad betyder det att ett läge i Nim är förlorande?
-3. Hur skiljer sig agentens och människans lösning av Nim?
-4. Varför kan man inte pröva alla rutter i TSP med många städer?
-5. Vad gör urval, korsning och mutation?
-6. Varför garanterar inte en genetisk algoritm den bästa lösningen?
-7. Vad menas med att känna, tänka och agera?
-
 ## Koppling till projektet
 
 Du använder genetiska algoritmer i bootcampen i [AI - Projekt](../projekt/ai-projekt/README.md). Sökning eller en spelagent kan också vara ett bra eget projekt om du inte vill jobba med maskininlärning på data.

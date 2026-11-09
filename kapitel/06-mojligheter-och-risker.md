@@ -108,15 +108,6 @@ Fem frågor som hjälper dig att komma längre:
 - **Prompt injection:** dolda instruktioner som lurar en språkmodell
 - **Desinformation:** avsiktligt spridd felaktig information
 
-## Testa dig själv
-
-1. Ge ett exempel på en demokratisk och en miljömässig risk med AI.
-2. Varför kan en modell vara orättvis även om känsliga uppgifter tagits bort?
-3. Vad menas med att en modell är en svart låda?
-4. Hur kan AI bidra till hållbar utveckling, och vad talar emot?
-5. Vad är skillnaden mellan att en uppgift och ett yrke automatiseras?
-6. Vad gör ett resonemang nyanserat?
-
 ## Koppling till projektet
 
 I [AI LLMer](../projekt/ai-llmer/README.md) ska du reflektera över risker och möjligheter med just din app. I [AI - Projekt](../projekt/ai-projekt/README.md) ska du resonera om begränsningarna hos din lösning.

@@ -182,16 +182,6 @@ Objektigenkänning används i självkörande bilar, industrikontroll och kameror
 - **CNN:** nätverk som är särskilt bra på bilder
 - **Objektigenkänning:** att hitta och namnge objekt i en bild
 
-## Testa dig själv
-
-1. Vad betyder lutningen i exemplet med löpträning?
-2. Varför är prediktionen för 40 timmar orimlig?
-3. Vad händer om inlärningstakten är för stor?
-4. Vad gör en vikt och ett bias i en perceptron?
-5. Vad är skillnaden mellan feedforward och backpropagation?
-6. Vad är skillnaden mellan bildklassificering och objektigenkänning?
-7. Varför kan fler noder bli slöseri?
-
 ## Koppling till projektet
 
 Under bootcampen i [AI - Projekt](../projekt/ai-projekt/README.md) arbetar du med linjär regression och neurala nätverk. Om ditt eget projekt ska förutsäga ett tal är regression ett bra första val.
