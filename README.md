@@ -4,6 +4,10 @@ Kursbok för kursen Artificiell intelligens nivå 1 (ARTI1000X, 100 poäng) på 
 
 Boken ger dig en överblick över vad AI är, hur tekniken fungerar och hur du själv kan använda den för att lösa problem. Du bygger program med språkmodeller och tränar egna modeller i Python. Du lär dig också jämföra AI med människan, sätta dig in i lagar som EU:s AI-förordning och GDPR och resonera om vad tekniken betyder för samhället.
 
+## Kurspresentation
+
+En översikt över kursen, dess delar och projekt: [Artificiell intelligens 1 - Kurspresentation.pptx](Artificiell%20intelligens%201%20-%20Kurspresentation.pptx)
+
 ## Så använder du boken
 
 - Läs kapitlen i ordning. De följer kursens projekt.
