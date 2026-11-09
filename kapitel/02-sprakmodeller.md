@@ -176,34 +176,6 @@ Modellen är tränad att ge en sannolik fortsättning, inte att kontrollera om n
 6. Varför lär sig en modell normalt inte av att du rättar den i en chatt?
 7. Förklara varför en språkmodell kan hallucinera.
 
-## Övningar
-
-**Grund.** Vilka sannolikheter ger bigrammodellen för ordet efter "hunden"? Räkna för hand och testa i koden.
-
-<details><summary>Svar</summary>
-
-"hunden" följs av "sitter" en gång och "jagar" en gång, alltså 0,5 vardera.
-
-</details>
-
-**Grund.** Räkna ut cosinuslikheten mellan vektorerna (1, 0) och (1, 1).
-
-<details><summary>Svar</summary>
-
-1 / (1 · √2) ≈ 0,707.
-
-</details>
-
-**Vidare.** Räkna ut sannolikheterna för mattan, golvet och månen vid T = 0,5 (ursprungligen 0,70, 0,25 och 0,05).
-
-<details><summary>Svar</summary>
-
-Ungefär 0,883, 0,113 och 0,005.
-
-</details>
-
-**Utmaning.** Testa en färdig språkmodell med `pipeline`-funktionen i biblioteket [Hugging Face Transformers](https://huggingface.co/docs/transformers/en/main_classes/pipelines). Välj uppgiften `sentiment-analysis` och skriv meningar på svenska och engelska. Blir resultatet olika bra? Vad kan det bero på?
-
 ## Koppling till projektet
 
 Det här kapitlet förbereder de två första lektionerna i [AI LLMer](../projekt/ai-llmer/README.md). Du behöver begreppen när du jämför modellens "förståelse" med en människas och när du förklarar hur din app fungerar. I [AI - Projekt](../projekt/ai-projekt/README.md) återkommer BERT.

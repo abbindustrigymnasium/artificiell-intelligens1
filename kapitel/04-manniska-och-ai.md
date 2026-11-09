@@ -124,16 +124,6 @@ Du kan använda de här frågorna för att göra en bra jämförelse:
 5. Vad försöker Searles kinesiska rum visa?
 6. Vad är automationsbias, och hur kan det minskas?
 
-## Övningar
-
-**Grund.** Skapa din egen tabell med tre uppgifter från din vardag. Ange för varje uppgift om du tror att en människa eller AI gör den bäst, och varför.
-
-**Vidare.** Ändra koden så att testbilderna bara blir lite brusiga, till exempel med `X_te + 0.2 * np.random.default_rng(0).random(X_te.shape)` (du behöver `import numpy as np`). Hur påverkas resultatet? Skulle du kunna läsa siffrorna?
-
-**Vidare.** Ställ samma kluriga fråga till en chattbott och till en klasskamrat, till exempel en fråga som kräver sunt förnuft. Jämför hur de resonerar och hur säkra de låter.
-
-**Utmaning.** Skriv en kort text där du tar ställning: kan en språkmodell förstå? Använd både det kinesiska rummet och ett eget experiment som stöd, och bemöt minst ett motargument.
-
 ## Koppling till projektet
 
 Reflektionen i [AI LLMer](../projekt/ai-llmer/README.md) ska jämföra hur en LLM och en människa lär sig, förstår och gör fel. Den här frågelistan är ett bra sätt att strukturera den.

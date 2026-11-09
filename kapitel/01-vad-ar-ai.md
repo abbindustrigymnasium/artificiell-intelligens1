@@ -168,22 +168,6 @@ Tre tekniker återkommer ofta, och du kommer att prova alla:
 5. Nämn tre drivkrafter bakom AI-utvecklingen. Vilken tror du är viktigast? Motivera.
 6. Är en miniräknare AI? Är en app som föreslår nästa ord? Motivera.
 
-## Övningar
-
-**Grund.** Ändra träningsdatan i koden så att "vinn lunch nu" klassas som ok. Vad behövde du lägga till?
-
-**Grund.** Räkna för hand vilken poäng meddelandet "gratis lunch" får i exemplet.
-
-<details><summary>Svar</summary>
-
-Skräp 1 ("gratis" 1 gång, "lunch" 0 gånger) och ok 1 ("gratis" 0 gånger, "lunch" 1 gång). Det blir lika, och koden väljer då "ok" eftersom skräp inte är större än ok.
-
-</details>
-
-**Vidare.** Lista fem AI-tjänster du använder. Ange vilket område i tabellen ovan var och en hör till och vad den använder för data.
-
-**Utmaning.** Den riktiga definitionen av AI är omdiskuterad. Läs artikel 3 i AI-förordningen via [EU-kommissionens sida](https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai) eller det officiella dokumentet på [EUR-Lex](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32024R1689). Ge ett exempel på ett program som är svårt att avgöra, och motivera hur du bedömer det.
-
 ## Koppling till projektet
 
 Kapitlet ger grunden till [AI LLMer](../projekt/ai-llmer/README.md), där du börjar med att ta reda på vad generativ AI är. Begreppen om modell, träning och data används igen i [AI - Projekt](../projekt/ai-projekt/README.md).

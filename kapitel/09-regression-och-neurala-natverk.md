@@ -192,22 +192,6 @@ Objektigenkänning används i självkörande bilar, industrikontroll och kameror
 6. Vad är skillnaden mellan bildklassificering och objektigenkänning?
 7. Varför kan fler noder bli slöseri?
 
-## Övningar
-
-**Grund.** Använd modellen y = −0,623x + 20,114 för att förutsäga tiden vid 2,5 och 10 träningstimmar.
-
-<details><summary>Svar</summary>
-
-18,56 minuter respektive 13,88 minuter. Den andra ligger utanför datans område.
-
-</details>
-
-**Grund.** Ändra perceptronen så att den lär sig logiskt ELLER. Vilka vikter får du?
-
-**Vidare.** Ändra inlärningstakten i gradientnedstigningen till 0,1. Vad händer? Förklara.
-
-**Utmaning.** En ensam perceptron klarar inte logiskt XOR. Testa i koden, och förklara varför det inte går att dra en enda rät gräns. Träna sedan ett litet `MLPClassifier` på XOR-data och se om det lyckas.
-
 ## Koppling till projektet
 
 Under bootcampen i [AI - Projekt](../projekt/ai-projekt/README.md) arbetar du med linjär regression och neurala nätverk. Om ditt eget projekt ska förutsäga ett tal är regression ett bra första val.

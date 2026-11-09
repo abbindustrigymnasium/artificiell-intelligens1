@@ -134,16 +134,6 @@ flowchart TD
 6. Varför är rätten till rättelse svår att tillämpa på språkmodeller?
 7. Vilka är de mest aktuella frågorna kring upphovsrätt och AI?
 
-## Övningar
-
-**Grund.** Använd schemat ovan för att bedöma tre AI-tjänster du själv har använt.
-
-**Vidare.** Läs din favorittjänsts integritetspolicy. Vad står det om hur dina meddelanden används? Kan du välja bort att de används för träning?
-
-**Vidare.** Kontrollera tidplanen på EU-kommissionens sida. Har något ändrats sedan den här boken skrevs?
-
-**Utmaning.** Skriv en kort rådgivning till en påhittad skola som vill köpa ett AI-verktyg för att rätta prov. Vilka risker och krav finns? Vilka frågor ska skolan ställa till leverantören? Ange dina källor.
-
 ## Koppling till projektet
 
 I [AI LLMer](../projekt/ai-llmer/README.md) ska du sätta dig in i AI-förordningen och GDPR och bedöma vad de betyder för din app. Använd bedömningsschemat i din reflektion.

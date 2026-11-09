@@ -191,28 +191,6 @@ Numret på ett kluster betyder inget i sig. Alla 50 blommor av art 0 hamnar i sa
 6. Varför ska man inte lita på en enda delning av testdata?
 7. När är noggrannhet ett dåligt mått?
 
-## Övningar
-
-**Grund.** Beräkna avståndet mellan punkterna (1, 1) och (4, 5).
-
-<details><summary>Svar</summary>
-
-√(3² + 4²) = √25 = 5.
-
-</details>
-
-**Grund.** En nod innehåller 3 röda och 2 blå. Beräkna Gini.
-
-<details><summary>Svar</summary>
-
-1 − 0,6² − 0,4² = 0,48.
-
-</details>
-
-**Vidare.** Byt ut Iris mot Wine (`load_wine`) i koden. Vilken modell fungerar bäst? Prova också att skala data med `StandardScaler` för KNN.
-
-**Utmaning.** Träna ett beslutsträd på `load_breast_cancer`. Skriv ut en förväxlingsmatris med `confusion_matrix`. Vilken typ av fel är allvarligast i det här fallet, och hur kan du påverka det?
-
 ## Koppling till projektet
 
 Under bootcampen i [AI - Projekt](../projekt/ai-projekt/README.md) tränar du KNN, beslutsträd och slumpmässiga skogar i Google Colab. Metoderna passar bra i ett eget projekt om du vill klassificera något.

@@ -117,22 +117,6 @@ Fem frågor som hjälper dig att komma längre:
 5. Vad är skillnaden mellan att en uppgift och ett yrke automatiseras?
 6. Vad gör ett resonemang nyanserat?
 
-## Övningar
-
-**Grund.** Välj en AI-tjänst och fyll i en tabell med en möjlighet och en risk på minst tre av de fem områdena.
-
-**Grund.** Hur många gånger större är IEA:s prognos för 2030 jämfört med siffran för 2024?
-
-<details><summary>Svar</summary>
-
-945 / 415 ≈ 2,28 gånger större.
-
-</details>
-
-**Vidare.** Ändra `postnummer` i bias-exemplet så att det inte samvarierar med gruppen, till exempel `rng.integers(0, 2, n)`. Vad händer med modellens förslag? Förklara.
-
-**Utmaning.** Skriv ett utvecklat och nyanserat resonemang på cirka 300 ord om ett av följande: AI som rättar prov, deepfakes i valrörelser eller AI i rekrytering. Använd de fem frågorna, och ange minst två källor.
-
 ## Koppling till projektet
 
 I [AI LLMer](../projekt/ai-llmer/README.md) ska du reflektera över risker och möjligheter med just din app. I [AI - Projekt](../projekt/ai-projekt/README.md) ska du resonera om begränsningarna hos din lösning.

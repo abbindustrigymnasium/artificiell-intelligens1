@@ -199,28 +199,6 @@ Robotik är svårare än det låter. Sensorer ger felaktiga mätningar, världen
 6. Varför garanterar inte en genetisk algoritm den bästa lösningen?
 7. Vad menas med att känna, tänka och agera?
 
-## Övningar
-
-**Grund.** Hur många olika rundturer finns det med 5 städer om startstaden är bestämd och riktningen inte spelar roll?
-
-<details><summary>Svar</summary>
-
-4! / 2 = 12.
-
-</details>
-
-**Grund.** Vem vinner Nim från 12 stickor om båda spelar perfekt?
-
-<details><summary>Svar</summary>
-
-Spelaren som inte börjar, eftersom 12 finns i fyrans tabell.
-
-</details>
-
-**Vidare.** Ändra värdet på `sannolikhet` i mutationen till 0 och till 1. Vad händer med resultatet? Testa flera olika värden på `random.seed`.
-
-**Utmaning.** Bygg ett Nim-spel där du spelar mot agenten i Python. Ändra sedan reglerna, så att den som tar den sista stickan förlorar. Vilket mönster får du nu?
-
 ## Koppling till projektet
 
 Du använder genetiska algoritmer i bootcampen i [AI - Projekt](../projekt/ai-projekt/README.md). Sökning eller en spelagent kan också vara ett bra eget projekt om du inte vill jobba med maskininlärning på data.

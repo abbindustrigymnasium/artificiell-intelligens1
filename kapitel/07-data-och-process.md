@@ -139,22 +139,6 @@ Innan du börjar: kolla att datamängden är öppen, inte innehåller personuppg
 6. Ge ett exempel på en datamängd som inte är representativ.
 7. Vad är dataläckage?
 
-## Övningar
-
-**Grund.** Lägg till en låt i tabellen med popularitet 90 av artisten Cia. Vad blir medelvärdet efter städning?
-
-<details><summary>Svar</summary>
-
-(80 + 65 + 30 + 90) / 4 = 265 / 4 = 66,25.
-
-</details>
-
-**Grund.** Skriv kod som tar fram namnet på den låt som har högst popularitet.
-
-**Vidare.** Ladda ner en öppen datamängd som CSV-fil, läs in den med `pd.read_csv`, och rapportera antal rader, kolumner, saknade värden (`df.isna().sum()`) och medelvärden.
-
-**Utmaning.** Hitta eller skapa en datamängd där städningen ändrar slutsatsen. Skriv kort om vilka val du gjorde och varför.
-
 ## Koppling till projektet
 
 Det här kapitlet används i första delen av bootcampen i [AI - Projekt](../projekt/ai-projekt/README.md), och i början av ditt eget projekt när du ska välja och förbereda data.

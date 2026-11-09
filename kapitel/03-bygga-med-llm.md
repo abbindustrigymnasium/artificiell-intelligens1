@@ -206,16 +206,6 @@ Eftersom modellen kan föreslå vad som helst bör du aldrig låta den köra far
 5. Vilket problem löser RAG? Vilket löser den inte?
 6. Vem är det som faktiskt kör en funktion vid verktygsanrop?
 
-## Övningar
-
-**Grund.** Skriv en zero-shot-prompt och en few-shot-prompt för samma uppgift. Testa båda och beskriv skillnaden.
-
-**Vidare.** Lägg till ett fjärde textstycke i RAG-exemplet som handlar om att låna datorer. Ställ en fråga som gör att det nya stycket väljs. Ställ sedan en fråga med ett ord som inte finns i texterna. Vad händer?
-
-**Vidare.** Lägg till en loop i din första app som frågar användaren och sparar samtalet i meddelandelistan.
-
-**Utmaning.** Bygg en liten RAG-app som söker bland minst tio egna textstycken och ger ett svar med en språkmodell. Modellen ska säga "det vet jag inte" när texten saknar svaret. Testa flera frågor och redovisa när den misslyckas.
-
 ## Koppling till projektet
 
 Det här kapitlet är ditt verktygskapitel för [AI LLMer](../projekt/ai-llmer/README.md). Du använder det från den första AI-appen till ditt egna program.
